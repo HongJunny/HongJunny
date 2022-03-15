@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 
 ---
 
-
-
 미루지 말고 잔디 심기, 땜빵 만들지 않기
