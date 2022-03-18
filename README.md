@@ -23,7 +23,16 @@ Here are some ideas to get you started:
 ![html5](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white") 
 ![css3](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white") 
 ![jquery](https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=white") 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=SpringBoot&logoColor=white") 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=SpringBoot&logoColor=white")    
+
+---   
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white") 
+![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white") 
+![facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white") 
+![kakaotalk](https://img.shields.io/badge/kakaotalk-000000?style=for-the-badge&logo=kakaotalk&logoColor=white") 
+![naver](https://img.shields.io/badge/naver-000000?style=for-the-badge&logo=naver&logoColor=white")
+![google](https://img.shields.io/badge/google-000000?style=for-the-badge&logo=google&logoColor=white")
 
 ---
 
