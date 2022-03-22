@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white") 
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white") 
 ![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white") 
-![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white") 
-![css3](https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white") 
+![html5](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white") 
+![css3](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white") 
 ![jquery](https://img.shields.io/badge/jquery-000000?style=for-the-badge&logo=jquery&logoColor=white") 
 ![springboot](https://img.shields.io/badge/SpringBoot-000000?style=for-the-badge&logo=SpringBoot&logoColor=white") 
 
